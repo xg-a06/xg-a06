@@ -9,7 +9,7 @@
 
 ### Hi，Welcome to my GitHub!
 
-- 😄 I am wangliang
+- 😄 I am xg-a06
 
 - 🛠 I’m currently working with node, react, webpack, docker, nginx
 
@@ -19,9 +19,7 @@
 
 - ⚡ Fun fact: Sadness and gladness succeed one another.
 
-- 📫 How to reach me: wangliang4468@126.com
-
-- [![](https://img.shields.io/badge/-MyBlog-ff5722?style=flat-square&labelColor=ff5722&logo=blogger&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://blog.csdn.net/qq_39544148)
+- 📫 How to reach me: xg_jser@163.com
 
 <br>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
@@ -41,14 +39,14 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=wangliang101&theme=react&border=61dafb&hide_border=true" alt="geekswg" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=xg-a06&theme=react&border=61dafb&hide_border=true" alt="geekswg" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=wangliang101&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=xg-a06&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=wangliang101&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=xg-a06&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
